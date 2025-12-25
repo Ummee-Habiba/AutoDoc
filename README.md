@@ -155,9 +155,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-Wasif Sohail - [@WasifSohail5](https://github.com/WasifSohail5)
+Ummee Habiba - [@Ummee-Habiba](https://github.com/Ummee-Habiba)
 
-Project Link: [https://github.com/WasifSohail5/AutoDoc_Devrolin](https://github.com/WasifSohail5/AutoDoc_Devrolin)
+Project Link: [https://github.com/Ummee-Habiba/AutoDoc](https://github.com/Ummee-Habiba/AutoDoc)
 
 ---
 
