@@ -1,4 +1,4 @@
-# 📄 AutoDoc_Devrolin
+# 📄 AutoDoc
 
 ![AutoDoc Banner](https://img.shields.io/badge/AutoDoc-Document%20Automation-blue?style=for-the-badge)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -6,7 +6,7 @@
 
 ## 📋 Overview
 
-AutoDoc_Devrolin is an intelligent documentation automation platform designed to streamline technical documentation workflows for developers and organizations. The system automatically generates comprehensive documentation from codebases, keeping it synchronized with code changes, and providing an intuitive interface for customization and collaboration.
+AutoDoc is an intelligent documentation automation platform designed to streamline technical documentation workflows for developers and organizations. The system automatically generates comprehensive documentation from codebases, keeping it synchronized with code changes, and providing an intuitive interface for customization and collaboration.
 
 ## ✨ Key Features
 
